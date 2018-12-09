@@ -1,0 +1,29 @@
+# Terms of Use
+Effective date: December 9, 2018
+
+## 1. Introduction and Acceptance
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the Electronics Engineer Helper mobile application (the "Service") operated by Rostyslav Dovhaliuk ("us", "we", or "our").
+
+By using the Service you are agreeing to comply with these Terms Of Use. If you do not agree to be bound by these Terms Of Use, do not use the Service.
+
+## 2. Intellectual Property
+The Service and its original content, features and functionality are and will remain the exclusive property of Rostyslav Dovhaliuk and his licensors. The Service is protected by copyright, trademark, and other laws of both Ukraine and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Rostyslav Dovhaliuk.
+
+## 3. Subscriptions
+Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
+
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it. You may cancel your Subscription renewal through your iTunes account management page.
+
+## 4. Disclaimer of Warranties
+Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+
+Rostyslav Dovhaliuk and his licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; or c) the results of using the Service will meet your requirements.
+
+## 5. Limitation of Liabilities
+Under no circumstances shall the Service operator be liable for indirect, incidental, special, consequential or exemplary damages, arising out of, relating to, or in any way connected with our services or these terms of use. Your sole remedy for dissatisfaction with our services including, without limitation, service content is to stop using our services.
+
+## 6. Governing Law
+This Agreement, including all claims relating to or arising hereof or breach thereof, whether sounding in contract, tort, or otherwise, will be governed and construed in accordance with the laws of Ukraine.
+
+## 7. Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time without prior notice. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
